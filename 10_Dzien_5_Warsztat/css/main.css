@@ -1,0 +1,18 @@
+body {
+  max-width: 375px;
+  margin: 0 auto;
+}
+
+nav {
+  width: 375px;
+  height: 70px;
+  border: 1px solid #00000029;
+  display: flex;
+  box-shadow: 0px 3px 6px #00000029;
+  color: #08A6E4;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: "Raleway", sans-serif;
+  font-weight: lighter;
+}
+/*# sourceMappingURL=main.css.map */
